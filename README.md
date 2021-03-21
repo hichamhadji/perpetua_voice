@@ -16,7 +16,7 @@ Create a virtualenv and install requirements
 ```sh
 $ python -m venv venv
 $ source venv/bin/activate
-$ cd fmglobal-api
+$ cd perpetua_voice
 $ pip install -r requirements.txt
 ```
 Export the envirment variables
